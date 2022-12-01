@@ -2,4 +2,4 @@ server:
   port: 6060
 color: red
 minimum: -345
-maxinum: 9090909
+maximum: 9090909
