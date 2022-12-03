@@ -3,3 +3,4 @@ server:
 color: red
 minimum: -345
 maximum: 9090909
+springdoc.api-docs.enabled: true
